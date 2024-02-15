@@ -4,9 +4,9 @@ Včetně CZ dabingu. Velikost 121MB https://drive.google.com/drive/folders/1O_kK
 
 Postup
 <br/>
--nakopírovat obsah složky "_CZ-PART2" do hry
-<br/>
 -aplikovat CZ patch
+<br/>
+-nakopírovat obsah složky "_CZ-PART2" do hry
 <br/>
 -v menu hry změnit jazyk
 
@@ -16,6 +16,6 @@ Chyby
 
 -pokud hra nejde spustit, tak může pomoci upravit režim kompatibility
 
--pokud hra nejde spustit ve fullscreen režimu, tak můžete použít Autohotkey skript - klávesa F12 (držet 1 vteřinu pro zapnutí/vypnutí borderless) https://github.com/hornster02/Autohotkey_AHK_H2
+-pokud hra nejde spustit ve fullscreen režimu, tak můžete použít Autohotkey skript - klávesa F12 (držet 1 vteřinu pro zapnutí/vypnutí borderless) https://github.com/hornster02
 
 -hra má různou citlivost os myši - jejich sjednocení se může provést programem "Raw Accel"
