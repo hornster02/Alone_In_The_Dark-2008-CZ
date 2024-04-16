@@ -1,6 +1,6 @@
 Steam (2024-01)
 <br/>
-Včetně CZ dabingu. Velikost 121MB https://drive.google.com/drive/folders/1O_kKPAV1dLRhhXlFgXWA1JZoqCFuXT7K
+Velikost 121MB https://drive.google.com/drive/folders/1O_kKPAV1dLRhhXlFgXWA1JZoqCFuXT7K
 
 Postup
 <br/>
